@@ -1,7 +1,6 @@
 
 
 let input = prompt("Inserisci la parola:");
-let input_rev
 let poli
 
 
